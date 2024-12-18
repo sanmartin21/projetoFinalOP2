@@ -1,0 +1,74 @@
+[
+    {
+        "name": "biometria_login",
+        "login_name": true,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": null
+    },
+    {
+        "name": "biometria_charts",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/charts"
+    },
+    {
+        "name": "biometria_usuario",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/usuario"
+    },
+    {
+        "name": "biometria_usuario_create",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/usuario/create"
+    },
+    {
+        "name": "biometria_tipoUsuario",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/tipoUsuario"
+    },
+    {
+        "name": "biometria_turma",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/turma"
+    },
+    {
+        "name": "biometria_aluno",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/aluno"
+    },
+    {
+        "name": "biometria_responsavel",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/responsavel"
+    },
+    {
+        "name": "biometria_registrosTurma",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/registrosTurma"
+    },
+    {
+        "name": "biometria_logs",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biom•••••••••etria.ifc-riodosul.edu.br/logs"
+    },
+    {
+        "name": "biometria_relatorio",
+        "login_name": false,
+        "login_url": "http://biometria.ifc-riodosul.edu.br/login",
+        "monitored_url": "http://biometria.ifc-riodosul.edu.br/relatorio"
+    },
+    {
+        "name": "feiras_login",
+        "login_name": true,
+        "login_url": "http://feiras.ifc-riodosul.edu.br/login",
+        "monitored_url": null
+    }
+]
